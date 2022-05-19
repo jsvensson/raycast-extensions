@@ -17,6 +17,13 @@
       "subtitle": "Spotify",
       "description": "Copies the URL for the current track",
       "mode": "no-view"
+    },
+    {
+      "name": "paste-track-url",
+      "title": "Paste track URL",
+      "subtitle": "Spotify",
+      "description": "Pastes the URL for the current track",
+      "mode": "no-view"
     }
   ],
   "dependencies": {

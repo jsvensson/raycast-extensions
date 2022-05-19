@@ -1,4 +1,4 @@
-import { Clipboard, closeMainWindow, showHUD, showToast } from "@raycast/api"
+import { Clipboard, closeMainWindow, showHUD } from "@raycast/api"
 import { runAppleScript } from "run-applescript"
 
 export default async () => {
@@ -18,6 +18,6 @@ return trackURL
 
   await closeMainWindow()
   const url = await runAppleScript(script)
-  await Clipboard.copy(url)
-  await showHUD("Copied Spotify track URL to clipboard")
+  await Clipboard.paste(url)
+  await showHUD("Pasted Spotify track URL from clipboard")
 }
