@@ -1,4 +1,4 @@
-import { Clipboard, closeMainWindow, showHUD, showToast } from "@raycast/api"
+import { Clipboard, closeMainWindow, showHUD } from "@raycast/api"
 import { runAppleScript } from "run-applescript"
 
 export default async () => {
