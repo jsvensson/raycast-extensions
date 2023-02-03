@@ -24,7 +24,15 @@
       "subtitle": "Spotify",
       "description": "Pastes the URL for the current track",
       "mode": "no-view"
+    },
+    {
+      "name": "paste-logseq-tune",
+      "title": "Paste Logseq Tune of the Day",
+      "subtitle": "Spotify",
+      "description": "Pastes the URL for the current track",
+      "mode": "no-view"
     }
+
   ],
   "dependencies": {
     "@raycast/api": "^1.35.1",
