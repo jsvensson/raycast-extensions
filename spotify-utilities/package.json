@@ -39,7 +39,7 @@
     "run-applescript": "^6.1.0"
   },
   "devDependencies": {
-    "@types/node": "~18.13.0",
+    "@types/node": "~18.14.0",
     "@types/react": "^18.0.28",
     "@typescript-eslint/eslint-plugin": "^5.51.0",
     "@typescript-eslint/parser": "^5.50.0",
