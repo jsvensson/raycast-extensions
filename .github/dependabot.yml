@@ -8,4 +8,4 @@ updates:
   - package-ecosystem: "npm" # See documentation for possible values
     directory: "/spotify-utilities" # Location of package manifests
     schedule:
-      interval: "weekly"
+      interval: "monthly"
