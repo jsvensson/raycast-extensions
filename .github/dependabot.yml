@@ -9,3 +9,5 @@ updates:
     directory: "/spotify-utilities" # Location of package manifests
     schedule:
       interval: "monthly"
+    assignees:
+      - "jsvensson"
