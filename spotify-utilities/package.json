@@ -39,13 +39,13 @@
     "run-applescript": "^6.1.0"
   },
   "devDependencies": {
-    "@types/node": "~18.13.0",
+    "@types/node": "~18.15.11",
     "@types/react": "^18.0.28",
     "@typescript-eslint/eslint-plugin": "^5.51.0",
-    "@typescript-eslint/parser": "^5.50.0",
+    "@typescript-eslint/parser": "^5.57.0",
     "eslint": "^8.34.0",
     "eslint-config-prettier": "^8.6.0",
-    "prettier": "^2.8.3",
+    "prettier": "^2.8.7",
     "typescript": "^4.9.5"
   },
   "scripts": {
