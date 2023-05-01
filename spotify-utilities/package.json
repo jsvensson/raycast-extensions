@@ -46,7 +46,7 @@
     "eslint": "^8.37.0",
     "eslint-config-prettier": "^8.8.0",
     "prettier": "^2.8.7",
-    "typescript": "^5.0.3"
+    "typescript": "^5.0.4"
   },
   "scripts": {
     "build": "ray build -e dist",
