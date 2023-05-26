@@ -1,5 +1,15 @@
 # Changelog
 
+## Version v0.0.2 (2023-05-26)
+
+### Other
+
+- Bump @types/react from 18.0.28 to 18.2.7 in /spotify-utilities (bda08436)
+- Bump @typescript-eslint/parser in /spotify-utilities (25b59353)
+- Bump prettier from 2.8.7 to 2.8.8 in /spotify-utilities (40c6f4a2)
+- Bump eslint from 8.37.0 to 8.41.0 in /spotify-utilities (733172ac)
+- Bump typescript from 5.0.3 to 5.0.4 in /spotify-utilities (edb1413b)
+
 ## Version v0.0.1 (2023-05-26)
 
 ### Fixes
