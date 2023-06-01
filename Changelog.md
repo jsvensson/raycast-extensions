@@ -1,5 +1,14 @@
 # Changelog
 
+## Version v0.0.3 (2023-06-01)
+
+### Other
+
+- Bump @raycast/api from 1.49.1 to 1.52.1 in /spotify-utilities (92caaa67)
+- Bump @typescript-eslint/eslint-plugin in /spotify-utilities (351ece99)
+- Bump @typescript-eslint/parser in /spotify-utilities (b722abaf)
+- Bump @types/node from 18.15.11 to 20.2.5 in /spotify-utilities (b975ebda)
+
 ## Version v0.0.2 (2023-05-26)
 
 ### Other
