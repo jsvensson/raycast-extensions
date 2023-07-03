@@ -1,5 +1,15 @@
 # Changelog
 
+## Version v0.0.4 (2023-07-03)
+
+### Other
+
+- Bump @typescript-eslint/eslint-plugin in /spotify-utilities (2c41fa09)
+- Bump @typescript-eslint/parser in /spotify-utilities (f351d91f)
+- Bump eslint from 8.41.0 to 8.44.0 in /spotify-utilities (b69eeca0)
+- Bump @types/react from 18.2.7 to 18.2.14 in /spotify-utilities (cf9cda7e)
+- Bump @raycast/api from 1.52.1 to 1.54.1 in /spotify-utilities (72aa0103)
+
 ## Version v0.0.3 (2023-06-01)
 
 ### Other
