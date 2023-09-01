@@ -1,5 +1,20 @@
 # Changelog
 
+## Version v0.0.5 (2023-09-01)
+
+### Other
+
+- Bump @raycast/api from 1.56.1 to 1.57.2 in /spotify-utilities (b08a5e1c)
+- Bump @typescript-eslint/eslint-plugin in /spotify-utilities (d1f2a4d9)
+- Bump @typescript-eslint/parser in /spotify-utilities (87c2c939)
+- Bump eslint from 8.46.0 to 8.48.0 in /spotify-utilities (895c63f8)
+- Bump @types/node from 20.2.5 to 20.5.7 in /spotify-utilities (9952b7d9)
+- Bump eslint-config-prettier from 8.8.0 to 8.9.0 in /spotify-utilities (6fe3ebd8)
+- Bump prettier from 2.8.8 to 3.0.0 in /spotify-utilities (1e384892)
+- Bump eslint from 8.44.0 to 8.46.0 in /spotify-utilities (7c90542e)
+- Bump @raycast/api from 1.54.1 to 1.56.1 in /spotify-utilities (3fc004eb)
+- Bump @types/react from 18.2.14 to 18.2.18 in /spotify-utilities (b983c24b)
+
 ## Version v0.0.4 (2023-07-03)
 
 ### Other
