@@ -11,3 +11,10 @@ updates:
       interval: "monthly"
     assignees:
       - "jsvensson"
+    groups:
+      dependencies:
+        patterns:
+        - "*"
+        update-types:
+        - "minor"
+        - "patch"
