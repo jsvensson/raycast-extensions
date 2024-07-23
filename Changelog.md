@@ -1,5 +1,14 @@
 # Changelog
 
+## Version v0.0.7 (2024-07-23)
+
+### Other
+
+- Bump eslint from 8.50.0 to 9.7.0 in /spotify-utilities (ed575b31)
+- Bump braces from 3.0.2 to 3.0.3 in /spotify-utilities (23c28006)
+- Bump @typescript-eslint/parser in /spotify-utilities (642c1cfe)
+- Bump @types/node from 20.8.2 to 20.10.6 in /spotify-utilities (1d91a455)
+
 ## Version v0.0.6 (2023-10-04)
 
 ### Ops and CI/CD
